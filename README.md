@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Dogukan! 👋
 
-<!--
-**dokaNc/dokaNc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](https://i.ibb.co/b2k9L85/Capture-d-e-cran-2024-07-12-a-00-57-36.png)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Front-end Developper** with experience in **Vue.js, Nuxt.js** and more... I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🔭 Working soon: **Visum**
+- 🌍 Languages: **French, English, Turkish**
+- ⚡ Fun fact: **I am not a developer**
+  
+## Get in Touch 📬
+
+- **Personal Website** https://www.dogukancirpan.fr/
+- **LinkedIn** https://www.linkedin.com/in/dogukan-cirpan/
+
+
+
